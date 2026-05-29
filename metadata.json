@@ -1,0 +1,6 @@
+{
+  "name": "Aryabhata — Ancient Genius",
+  "description": "Discover Aryabhata (476–550 CE) — the Indian mathematician and astronomer who shaped the foundations of science.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
